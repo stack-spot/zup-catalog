@@ -1,0 +1,36 @@
+# texto curto explicando o studio
+description: Example of stack
+# Nome gerado pelo cli em kebab-case
+name: example-portal-stack
+
+# Nome com formatação livre que será exibido no portal.
+displayName: Example Portal Stack
+
+# caso a picture esteja fora do repo colocar uma url externa
+# caso a picture esteja no repo fornecer o path
+# todo: recomendar tamanho de picture
+picture: "foto_da_stack.jpeg"
+
+# Especificar a categoria da stack.
+# Categorias disponíveis:
+# [sre, frontend, backend, fullStack, analytics]
+category: backend
+
+# Lista de compativeis
+# todo: explicar esse campo com mais detalhes
+compatibility:
+  - spring
+  - kotlin
+
+# tecnologies que a stack utiliza
+# A lista completa das tecnologias disponiveis que podem ser cadastradas estao disponiveis na Documentacao para consulta
+technologies: ["OpenAPI", "SpringBoot"]
+
+# Especificar um arquivo .md que explique em detalhes o objetivo da stack
+# todo: explicar melhor oque colocar nesse arquivo.
+# por padrão o valor é about.md
+about: about.md
+# Especificar um arquivo .md com exemplos da utilização da stack.
+# todo: explicar melhor oque colocar nesse arquivo.
+# por padrão o valor é useCase.md
+useCase: useCase.md
