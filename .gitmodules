@@ -1,0 +1,3 @@
+[submodule "eks-env-ts-template"]
+	path = eks-env-ts-template
+	url = https://github.com/stack-spot/eks-env-ts-template
