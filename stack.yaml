@@ -1,0 +1,2 @@
+description: Stack that uses EKS as base
+name: zup-eks-env-stack
