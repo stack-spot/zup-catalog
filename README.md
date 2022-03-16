@@ -1,1 +1,1 @@
-# zup-catalog
+# zup-eks-env-stack
