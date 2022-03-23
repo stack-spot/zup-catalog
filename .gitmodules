@@ -1,3 +1,6 @@
 [submodule "eks-env-ts-template"]
 	path = eks-env-ts-template
 	url = https://github.com/stack-spot/eks-env-ts-template
+[submodule "argorollouts-env-ts-plugin"]
+	path = argorollouts-env-ts-plugin
+	url = https://github.com/stack-spot/argorollouts-env-ts-plugin
