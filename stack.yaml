@@ -1,2 +1,2 @@
-description: Stack of Kotlin with Spring for application and plugins that uses EKS as base
+description: Stack that provides the ability to build applications with Kotlin and Spring, beyond to provide the minimum setup to deploy the app on AWS EKS via CDK
 name: zup-kotlin-stack
