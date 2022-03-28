@@ -25,5 +25,3 @@
 [submodule "argorollouts-app-kt-plugin"]
 	path = argorollouts-app-kt-plugin
 	url = https://github.com/stack-spot/argorollouts-app-kt-plugin
-
-
