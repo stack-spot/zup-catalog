@@ -4,3 +4,26 @@
 [submodule "argorollouts-env-ts-plugin"]
 	path = argorollouts-env-ts-plugin
 	url = https://github.com/stack-spot/argorollouts-env-ts-plugin
+[submodule "spring-app-kt-template"]
+	path = spring-app-kt-template
+	url = https://github.com/stack-spot/spring-app-kt-template
+[submodule "relational-database-app-kt-plugin"]
+	path = relational-database-app-kt-plugin
+	url = https://github.com/stack-spot/relational-database-app-kt-plugin
+[submodule "sqs-consumer-app-kt-plugin"]
+	path = sqs-consumer-app-kt-plugin
+	url = https://github.com/stack-spot/sqs-consumer-app-kt-plugin
+[submodule "sqs-producer-app-kt-plugin"]
+	path = sqs-producer-app-kt-plugin
+	url = https://github.com/stack-spot/sqs-producer-app-kt-plugin
+[submodule "metrics-app-kt-plugin"]
+	path = metrics-app-kt-plugin
+	url = https://github.com/stack-spot/metrics-app-kt-plugin
+[submodule "tracing-app-kt-plugin"]
+	path = tracing-app-kt-plugin
+	url = https://github.com/stack-spot/tracing-app-kt-plugin
+[submodule "argorollouts-app-kt-plugin"]
+	path = argorollouts-app-kt-plugin
+	url = https://github.com/stack-spot/argorollouts-app-kt-plugin
+
+
