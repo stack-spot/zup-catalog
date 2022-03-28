@@ -1,2 +1,2 @@
-description: Stack that uses EKS as base
-name: zup-eks-env-stack
+description: Stack of Kotlin with Spring for application and plugins that uses EKS as base
+name: zup-kotlin-stack
