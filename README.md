@@ -1,1 +1,1 @@
-# zup-eks-env-stack
+# zup-kotlin-stack
