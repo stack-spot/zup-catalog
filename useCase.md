@@ -1,5 +1,14 @@
 ### Capacidades da stack
 
+#### Infraestrutura EKS
+
+
+#### Aplicação linguagem Kotlin e framework SpringBoot
+
+
+#### Infraestrutura Argo Rollouts
+
+
 #### Base dados relacional
 
 O **relational-database-app-kt-plugin** funciona com base no Spring Boot e Spring Data JPA.
@@ -15,3 +24,7 @@ O **metrics-app-kt-plugin** é um plugin que tem como objetivo padronizar as mé
 O **tracing-app-kt-plugin** visa padronizar o *tracing* gerado pela aplicação utilizando OpenTelemetry para exportação dos dados.
 É possível escolher se o *tracing* gerado será enviado para **Jaeger** ou **AWS X-Ray**.
 
+#### Messageria
+
+
+#### Deploy Canário
