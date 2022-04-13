@@ -1,2 +1,12 @@
-description: Stack that provides the ability to build applications with Kotlin and Spring, beyond to provide the minimum setup to deploy the app on AWS EKS via CDK
-name: zup-kotlin-stack
+description: Stack para criação e configuração de infraestrutura AWS EKS e criação de aplicações na liguagem Kotlin e framework Spring com opção de inclusão de capacidades extras como observability, banco de dados relacional, messageria SQS e Argo Rollouts para configuração de deploy canário
+name: zup-kotlin
+displayName: Kotlin + Spring Stack
+picture: "pictures/studio.jpeg"
+category: Backend
+compatibility:
+  - Java 11
+technologies: ["Kotlin", "SpringBoot", "Logging", "Metrics", "AWS CloudWatch", "Prometheus", "Tracing", "Jaeger", "AWS X-Ray", "AWS SQS", "Relational Database", "MariaDB", "MySQL", "PostgreSQL", "Database Migrations", "Flyway", "Liquibase", "CDK"]
+about: about.md
+useCases:
+  - title: Criar microserviço com Kotlin e Spring
+  - content: useCase.md
